@@ -1,0 +1,72 @@
+[
+  {
+    "name": "martini",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "unit": "oz",
+        "amount": 3
+      },
+      {
+        "name": "vermouth",
+        "unit": "oz",
+        "amount": 0.5
+      },
+      {
+        "name": "olive",
+        "unit": "single",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "name": "margarita",
+    "ingredients": [
+      {
+        "name": "tequila",
+        "unit": "oz",
+        "amount": 2
+      },
+      {
+        "name": "cointreau",
+        "unit": "oz",
+        "amount": 1
+      },
+      {
+        "name": "lime juice",
+        "unit": "oz",
+        "amount": 0.5
+      },
+      {
+        "name": "sour mix",
+        "unit": "oz",
+        "amount": 0.5
+      }
+    ]
+  },
+  {
+    "name": "margarita",
+    "ingredients": [
+      {
+        "name": "tequila",
+        "unit": "oz",
+        "amount": 2
+      },
+      {
+        "name": "cointreau",
+        "unit": "oz",
+        "amount": 1
+      },
+      {
+        "name": "lime juice",
+        "unit": "oz",
+        "amount": 0.5
+      },
+      {
+        "name": "sour mix",
+        "unit": "oz",
+        "amount": 0.5
+      }
+    ]
+  }
+]
